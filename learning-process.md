@@ -13,13 +13,13 @@ It’s a way of learning by explaining the concept in your own simple words, as 
 
 Question 2: What was the most interesting story or idea for you?
 
-One of the most interesting ideas was how Barbara struggled with math early on, but later became an engineer by changing how she approached learning — showing that anyone can learn tough subjects with the right strategies.
+One of the most interesting ideas was how Barbara struggled with math early on, but later became an engineer by changing how she approached learning showing that anyone can learn tough subjects with the right strategies.
 
 Question 3: What are active and diffused modes of thinking?
 
 - Active mode is when you're fully focused, like solving a math problem or writing code.
 
-- Diffused mode is a relaxed state when your brain makes connections in the background — like when you get ideas while walking or showering.
+- Diffused mode is a relaxed state when your brain makes connections in the background like when you get ideas while walking or showering.
 
 ## 3. Learn Anything in 20 Hours
 
@@ -37,11 +37,11 @@ Question 4: What are the steps to take when approaching a new topic?
 
 - Learning Principles in the Bootcamp
 
-- Give your full attention while learning or coding — 100% involvement matters.
+- Give your full attention while learning or coding 100% involvement matters.
 
 - Programming is not just about writing code; it’s about focused and sustained thinking.
 
-- Train your brain to stay focused — attention is a skill that improves with practice.
+- Train your brain to stay focused attention is a skill that improves with practice.
 
 - Read Deep Work to understand how deep focus leads to quality output.
 
@@ -63,15 +63,15 @@ Question 4: What are the steps to take when approaching a new topic?
 
 ### Tips:
 
-- Deadlines are just there to help you plan — what really matters is actually understanding the topic.
+- Deadlines are just there to help you plan what really matters is actually understanding the topic.
 
 - Stay curious and try to enjoy learning instead of stressing over it.
 
-- Learn in a way that makes sense to you — use your own words and your own style.
+- Learn in a way that makes sense to you use your own words and your own style.
 
-- Try teaching what you’ve learned to someone else — that’s how you know you really get it.
+- Try teaching what you’ve learned to someone else that’s how you know you really get it.
 
-- You don’t have to learn everything — just focus on getting really good at a few important things.
+- You don’t have to learn everything just focus on getting really good at a few important things.
 
 ### How Are Trainees Evaluated?
 
@@ -89,7 +89,7 @@ Question 4: What are the steps to take when approaching a new topic?
 
 - Try to explain what you’ve learned in simple words, like you're teaching a friend.
 
-- Don’t just sit and code nonstop — take short breaks or go for a walk to help your mind relax.
+- Don’t just sit and code nonstop take short breaks or go for a walk to help your mind relax.
 
 - Instead of trying to learn everything at once, break it into small parts and practice a little every day.
 
@@ -97,7 +97,7 @@ Question 4: What are the steps to take when approaching a new topic?
 
 - Keep track of how you're spending your time and think about what’s helping you learn better.
 
-- Don’t be afraid to ask questions. Try helping others or build something using what you’ve learned — it really helps you understand things better.
+- Don’t be afraid to ask questions. Try helping others or build something using what you’ve learned it really helps you understand things better.
 
 
 ## References 
