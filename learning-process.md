@@ -1,15 +1,10 @@
 ## 1. How to Learn Faster with the Feynman Technique
    
-- https://www.youtube.com/watch?v=_f-qkGJBPts
-
-
 Question 1: What is the Feynman Technique?
 
 It’s a way of learning by explaining the concept in your own simple words, as if you're teaching it to someone else.
 
 ## 2. Learning How to Learn – TED Talk by Barbara Oakley
-
-- https://www.youtube.com/watch?v=O96fE1E-rf8
 
 Question 2: What was the most interesting story or idea for you?
 
@@ -22,8 +17,6 @@ Question 3: What are active and diffused modes of thinking?
 - Diffused mode is a relaxed state when your brain makes connections in the background like when you get ideas while walking or showering.
 
 ## 3. Learn Anything in 20 Hours
-
-- https://www.youtube.com/watch?v=5MgBikgcWnY
 
 Question 4: What are the steps to take when approaching a new topic?
 
