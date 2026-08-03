@@ -4,6 +4,7 @@
 
 
 Question 1: What is the Feynman Technique?
+
 It’s a way of learning by explaining the concept in your own simple words, as if you're teaching it to someone else.
 
 ## 2. Learning How to Learn – TED Talk by Barbara Oakley
