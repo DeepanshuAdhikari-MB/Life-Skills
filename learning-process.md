@@ -1,16 +1,16 @@
 ## 1. How to Learn Faster with the Feynman Technique
    
-Question 1: What is the Feynman Technique?
+## Question 1: What is the Feynman Technique?
 
 It’s a way of learning by explaining the concept in your own simple words, as if you're teaching it to someone else.
 
 ## 2. Learning How to Learn – TED Talk by Barbara Oakley
 
-Question 2: What was the most interesting story or idea for you?
+## Question 2: What was the most interesting story or idea for you?
 
 One of the most interesting ideas was how Barbara struggled with math early on, but later became an engineer by changing how she approached learning showing that anyone can learn tough subjects with the right strategies.
 
-Question 3: What are active and diffused modes of thinking?
+## Question 3: What are active and diffused modes of thinking?
 
 - Active mode is when you're fully focused, like solving a math problem or writing code.
 
@@ -18,7 +18,7 @@ Question 3: What are active and diffused modes of thinking?
 
 ## 3. Learn Anything in 20 Hours
 
-Question 4: What are the steps to take when approaching a new topic?
+## Question 4: What are the steps to take when approaching a new topic?
 
 - Break the skill down into smaller parts
 
