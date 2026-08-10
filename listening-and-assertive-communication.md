@@ -16,7 +16,7 @@ The 6 strategies for active listening are:
 Active listening is not just about hearing someone. It means paying attention to what they are saying, understanding their message, and responding in the right way.
 
 
-## Question 2: According to Fisher's model, what are the key points of Reflective Listening? (Write in your own words, use simple English)
+## Question 2: According to Fisher's model, what are the key points of Reflective Listening?
 
 Reflective listening is a more detailed version of active listening. It’s about really getting the speaker’s feelings and repeating back what they said in your own words. This way, both sides are sure they understand each other.
 
