@@ -1,12 +1,12 @@
 # Understanding and Applying Tiny Habits and Atomic Habits
 
-## 1. Tiny Habits – BJ Fogg (Video 1)
+## 1. Tiny Habits – BJ Fogg 
 
 ### Question 1: In this video, what was the most interesting story or idea for you?
 
 The most interesting idea for me in this video was how BJ Fogg explained that we don’t need motivation to start a habit. He told a story about how he started flossing his teeth by doing just one tooth at a time. This seemed silly at first, but it worked because it was so easy that he had no excuse not to do it. Over time, it naturally grew into a full habit. What stood out was the idea that starting small removes the pressure, and it’s okay to start tiny. The important thing is consistency.
 
-## 2. Tiny Habits by BJ Fogg – Core Message (Video 2)
+## 2. Tiny Habits by BJ Fogg – Core Message
 
 
 ### Question 2: How can you use B = MAP to make making new habits easier? What are M, A, and P?
@@ -25,14 +25,14 @@ To make a new habit easier, you can increase ability (make it simpler), reduce r
 
 Celebrating is a powerful way to teach your brain that what you just did is good. When you say “Yes!” or smile or do a fist pump after doing your tiny habit, your brain releases positive chemicals like dopamine. BJ Fogg calls this “Shine.” This emotion wires the habit into your brain faster and makes it something you want to repeat. Without celebration, habits may not stick, even if you repeat them. It’s not just about action; it’s about how you feel afterward.
 
-## 3. 1% Better Every Day (Video 3)
+## 3. 1% Better Every Day
 
 
 ### Question 4: In this video, what was the most interesting story or idea for you?
 
 The most interesting idea for me was the concept of compounding improvement—getting 1% better every day. It doesn’t feel like much at first, but over time it leads to massive growth. The speaker used examples like improving your fitness or learning a skill. The key message was that success doesn't come from big changes all at once. Instead, it’s the result of small, consistent improvements that add up. This made me realize that I don’t have to be perfect, just better than yesterday.
 
-## 4. Book Summary of Atomic Habits (Video 4)
+## 4. Book Summary of Atomic Habits
 
 
 ### Question 5: What is the book’s perspective about Identity?
